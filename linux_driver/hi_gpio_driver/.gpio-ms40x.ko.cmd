@@ -1,0 +1,1 @@
+cmd_/home/wangzh/work/gpio_driver/gpio-ms40x.ko := arm-himix200-linux-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/wangzh/work/gpio_driver/gpio-ms40x.ko /home/wangzh/work/gpio_driver/gpio-ms40x.o /home/wangzh/work/gpio_driver/gpio-ms40x.mod.o ;  true
