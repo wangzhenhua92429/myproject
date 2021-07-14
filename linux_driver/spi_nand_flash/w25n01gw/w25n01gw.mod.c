@@ -19,5 +19,3 @@ __used
 __attribute__((section(".modinfo"))) =
 "depends=";
 
-MODULE_ALIAS("of:N*T*Cw25n01gw");
-MODULE_ALIAS("of:N*T*Cw25n01gwC*");
