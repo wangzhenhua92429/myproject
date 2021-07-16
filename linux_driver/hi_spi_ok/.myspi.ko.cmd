@@ -1,1 +1,0 @@
-cmd_/home/wangzh/work/myproject/linux_driver/hi_spi/myspi.ko := arm-himix200-linux-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/wangzh/work/myproject/linux_driver/hi_spi/myspi.ko /home/wangzh/work/myproject/linux_driver/hi_spi/myspi.o /home/wangzh/work/myproject/linux_driver/hi_spi/myspi.mod.o ;  true
