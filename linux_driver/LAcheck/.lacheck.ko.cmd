@@ -1,0 +1,1 @@
+cmd_/home/uisrc/work/2G4chn/LAcheck/lacheck.ko := /opt/imx6ull/usr/bin/arm-linux-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/uisrc/work/2G4chn/LAcheck/lacheck.ko /home/uisrc/work/2G4chn/LAcheck/lacheck.o /home/uisrc/work/2G4chn/LAcheck/lacheck.mod.o
