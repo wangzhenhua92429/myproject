@@ -1,0 +1,1 @@
+cmd_/home/uisrc/Desktop/work/i2c_test/i2c_dec.ko := aarch64-linux-gnu-ld -r  -EL  -maarch64elf -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds  --build-id  -o /home/uisrc/Desktop/work/i2c_test/i2c_dec.ko /home/uisrc/Desktop/work/i2c_test/i2c_dec.o /home/uisrc/Desktop/work/i2c_test/i2c_dec.mod.o ;  true
